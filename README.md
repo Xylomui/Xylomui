@@ -8,6 +8,8 @@
   <h1>Pravakar PR Photography</h1>
   <section id="gallery">
     </section>
+  <img src="cloud_image.jpg" alt="Cloud Image">
+
   <section id="subscribe">
     <h2>Subscribe to Newsletter</h2>
     <form>
